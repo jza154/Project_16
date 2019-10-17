@@ -17,8 +17,28 @@ Dog Owners, by definition, have at least one pet dog that legally belongs to the
 Unlike Dog Owners, Dog Walkers is an open category that anyone can fall under, regardless of how old they are, what job they have, or what language they speak; as long as there is a passion for dogs, anyone and everyone can be a Dog Walker. The core issue for these users is that they may be unable to have their own dog: heavy expenses, unsuitable lifestyle and environment, or the reluctance of committing long-term to owning a pet are just some common examples. Doggie Walk enables these dog-less people to have quality dog-time with other people’s dogs by walking and playing with them, which in turn acts as a favour for the Dog Owners who need the helping hand.
 
 
-## How to access the web-application ##
+## How to access doggiewalk ##
 
 ```
 URL https://doggiewalk.herokuapp.com
 ```
+
+
+## How to use doggiewalk ##
+
+* Login using existing account or create a new account
+  * To login using existing user: Click "Sign In" and Login using: harry@potter.com , password: 123456
+  * To login using user: Login using new user Click "Sign Up": harry@potter.com , password: 123456
+* After login, you can
+  * View your own profile by clicking "My Account" > "My Profile"
+  *  Edit your own profile by clicking "My Account" > "My Profile" > "Edit"
+  *  Send message to other users on the doggiewalk platform by clicking "My Account" > "Mailbox" > "Compose"
+  *  View message from other users on the doggiewalk platform by clicking "My Account" > "Mailbox" > "Inbox"
+  *  View Events by clicking "Event Calendar" 
+  *  Post new Events by clicking "Event Calendar" > "New Event" 
+  *  View Events by clicking "Community Bulletin Board" 
+  *  Post new Events by clicking "Community Bulletin Board" > "New Post" 
+  *  Search all other user by clicking "All Users" 
+  
+  
+  
