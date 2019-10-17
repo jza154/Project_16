@@ -44,7 +44,7 @@ https://doggiewalk.herokuapp.com
 
 Since I started path to becoming a Software Engineer, I have always optimized for projects that could have an impact on the social community. I believe this project has the potential to create meaning positive impact to the society.
 
-#### This project was authored by my group mates of CMPT 276 and I . https://www.sfu.ca/outlines.html?2016/fall/cmpt/276/e100####
+#### This project was authored by my group mates of CMPT 276 and I #### https://www.sfu.ca/outlines.html?2016/fall/cmpt/276/e100
  
  
   
