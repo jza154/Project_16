@@ -17,10 +17,9 @@ Dog Owners, by definition, have at least one pet dog that legally belongs to the
 Unlike Dog Owners, Dog Walkers is an open category that anyone can fall under, regardless of how old they are, what job they have, or what language they speak; as long as there is a passion for dogs, anyone and everyone can be a Dog Walker. The core issue for these users is that they may be unable to have their own dog: heavy expenses, unsuitable lifestyle and environment, or the reluctance of committing long-term to owning a pet are just some common examples. Doggie Walk enables these dog-less people to have quality dog-time with other people’s dogs by walking and playing with them, which in turn acts as a favour for the Dog Owners who need the helping hand.
 
 
-## How to access doggiewalk ##
+## How to access doggiewalk - URL: ##
 
 ```
-URL:
 https://doggiewalk.herokuapp.com
 ```
 
