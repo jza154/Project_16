@@ -20,7 +20,8 @@ Unlike Dog Owners, Dog Walkers is an open category that anyone can fall under, r
 ## How to access doggiewalk ##
 
 ```
-URL https://doggiewalk.herokuapp.com
+URL:
+https://doggiewalk.herokuapp.com
 ```
 
 
