@@ -44,6 +44,6 @@ https://doggiewalk.herokuapp.com
 
 Since I started path to becoming a Software Engineer, I have always optimized for projects that could have an impact on the social community. I believe this project has the potential to create meaning positive impact to the society.
 
-#### This project was authored by my group mates and I in a Sotware engineering course 
+#### This project was authored by my group mates and I in a Sotware engineering course ####
   
   
