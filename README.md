@@ -28,7 +28,7 @@ URL https://doggiewalk.herokuapp.com
 
 * Login using existing account or create a new account
   * To login using existing user: Click "Sign In" and Login using: harry@potter.com , password: 123456
-  * To login using user: Login using new user Click "Sign Up": harry@potter.com , password: 123456
+  * To login using user: Login using new user Click "Sign Up" and then fill in the form
 * After login, you can
   * View your own profile by clicking "My Account" > "My Profile"
   *  Edit your own profile by clicking "My Account" > "My Profile" > "Edit"
