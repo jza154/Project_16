@@ -39,6 +39,13 @@ https://doggiewalk.herokuapp.com
   *  View Events by clicking "Community Bulletin Board" 
   *  Post new Events by clicking "Community Bulletin Board" > "New Post" 
   *  Search all other user by clicking "All Users" 
-  
+ 
+## Noteworthy ##
+
+Since I started path to becoming a Software Engineer, I have always optimized for projects that could have an impact on the social community. I believe this project has the potential to create meaning positive impact to the society.
+
+#### This project was authored by my group mates of CMPT 276 and I ####
+ 
+ 
   
   
